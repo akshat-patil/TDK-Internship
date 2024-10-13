@@ -7,6 +7,7 @@ Welcome to the Industrial Automation Projects repository, showcasing two excitin
 - In this project, we established seamless communication between a PC and a Siemens S7-1500 PLC within the TIA Portal environment:
 - Network Configuration: Physically connected devices, ensuring smooth communication.
 - Python Integration: Wrote a Python program using the Snap7 library to exchange data between the PC and PLC, enabling automation tasks.
+- 
 **Key Features:**
 -Configured network settings for industrial automation.
 -Developed a Python-based communication system for real-time control of PLC operations.
@@ -16,6 +17,7 @@ Welcome to the Industrial Automation Projects repository, showcasing two excitin
 - This project involved integrating an air pressure sensor with the S7-1500 PLC and applying machine learning to forecast air pressure values:
 - Real-Time Data Capture: Captured and stored sensor data in an MS SQL Server database.
 - Forecasting Model: Developed a machine learning model to predict air pressure values based on the captured data.
+- 
 **Key Features:**
 -Seamless integration of sensor data with industrial automation.
 -Predictive modeling using real-time data.
@@ -25,6 +27,7 @@ Welcome to the Industrial Automation Projects repository, showcasing two excitin
 - We contributed to the Energy Management System (EMS) by transforming data into insightful visualizations using Tableau:
 - Data Extraction: Developed custom SQL queries to extract relevant data from the database.
 - Tableau Visualizations: Created bar graphs showing energy consumption trends over various time intervals (hourly, daily, weekly, monthly).
+- 
 **Key Features:**
 -SQL query development for precise data extraction.
 -Cross-checked visualizations with Excel sheets to ensure accuracy.
