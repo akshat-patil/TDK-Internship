@@ -34,11 +34,11 @@ Welcome to the Industrial Automation Projects repository, showcasing two excitin
 
 # 🛠️ Tools & Technologies
 
-**Siemens S7-1500 PLC:** Used for industrial automation tasks.
-**Python & Snap7:** Python programming and Snap7 library for PLC communication.
-**MS SQL Server:** Data storage for sensor data.
-**Machine Learning:** Predictive modeling for air pressure forecasts.
-**Tableau:** Data visualization for the Energy Management System.
+- **Siemens S7-1500 PLC:** Used for industrial automation tasks.
+- **Python & Snap7:** Python programming and Snap7 library for PLC communication.
+- **MS SQL Server:** Data storage for sensor data.
+- **Machine Learning:** Predictive modeling for air pressure forecasts.
+- **Tableau:** Data visualization for the Energy Management System.
 
 # 🎯 Conclusion
 
